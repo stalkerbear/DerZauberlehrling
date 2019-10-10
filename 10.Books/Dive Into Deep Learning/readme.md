@@ -1,3 +1,5 @@
+<b>Dive into Deep Learning</b><br/>
+An interactive deep learning book with code, math, and discussions<br/>
 New V2.1 (Based on the NumPy interface):  <br/>
 http://numpy.d2l.ai/ <br/>
 V2.0 : <br/>
