@@ -1,0 +1,2 @@
+https://d2l.ai/
+https://github.com/dsgiitr/d2l-pytorch
