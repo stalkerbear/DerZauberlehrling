@@ -1,6 +1,6 @@
-New V2.1 (Based on the NumPy interface): 
-http://numpy.d2l.ai/
-V2.0 :
-https://d2l.ai/
-PyTorch Adoptation of file
-https://github.com/dsgiitr/d2l-pytorch
+New V2.1 (Based on the NumPy interface):  <br/>
+http://numpy.d2l.ai/ <br/>
+V2.0 : <br/>
+https://d2l.ai/ <br/>
+PyTorch Adoptation of file <br/>
+https://github.com/dsgiitr/d2l-pytorch <br/>
