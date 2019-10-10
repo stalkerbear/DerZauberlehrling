@@ -1,3 +1,5 @@
 <b>Python<b><br/> is one of the most used languages in ML and AI.<br/>
 As such, here we will post different ways to learn it.<br/>
 We will be adding here different information on libraries and language itself.<br/>
+<br/>
+  Learning Python The Hard Way (https://learntocodetogether.com/learn-python-the-hard-way-free-ebook-download/) is a way for beginner programmer to start working on usage of Python Language and to start becoming an programmer<br/>
