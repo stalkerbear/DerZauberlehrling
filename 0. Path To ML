@@ -1,0 +1,47 @@
+https://www.datasciencecentral.com/profiles/blogs/steps-to-learn-python-for-data-science
+
+Data science is an interdisciplinary field of scientific processes, methods, and systems. It is used to extract insights from data in many forms, either structured or unstructured. With data at its core, it employs an extensive range of methods on the data to extract crucial insights from it.
+
+This was a brief Introduction to Data Science. If you choose to set out on Python for Data Science, we’ve compiled a to-do list for you:
+
+Learn Python for Data Science – The Basics
+
+To step into the world of Python for Data Science, you need to know the basics well. If you haven’t yet begun with Python, reading An Introduction to Python is advisable especially these topics:
+
+Python Lists
+
+List Comprehensions
+Python Tuples
+Python Dictionaries and Dictionary Comprehensions
+Decision Making in Python
+Loops in Python
+Set up Your Machine
+
+To gear up with Python for Data Science, we recommend Anaconda. It is a free open-source distribution of the R and Python programming languages for vast data processing, scientific figuring, and predictive analytics.
+
+Learn Regular Expressions
+
+If you use text data, regular expressions will become accessible with data cleansing. It is the procedure of detecting and correcting inaccurate or corrupt records from a record set, database, or table. It classifies incomplete, inaccurate, incorrect, or irrelevant parts of the data, and then substitutes, amends, or deletes the dirty or rough data.
+
+
+
+Source for picture: click here
+
+Essential Libraries of Python used for Data Science
+
+A library is a pack of pre-existing utilities and objects that you can import into your script to save time and effort. Here, we list the essential libraries that you mustn’t forgot if you want to learn Python for data science.
+
+NumPy -NumPy enables easy and efficient numeric calculation. It has several other libraries built on top of it.
+Pandas - One such library created on top of NumPy is Pandas. It comes in handy with data structures and exploratory examination. Another significant feature it provides is DataFrame, a 2-dimensional data structure with columns of possibly different types.
+SciPy - SciPy will offer you all the tools you require for scientific and technical calculation. It has modules for optimization, integration, interpolation, linear algebra, FFT, special functions, ODE solvers, signal and image processing, and other tasks.
+Matplotlib - A flexible plotting and visualization library, Matplotlib is commanding. Though, it is cumbrous, so, you may go for Seaborn instead.
+scikit-learn -scikit-learn is the main library for machine learning. It has modules and algorithms for pre-processing, cross-validation, and other such purposes. Some algorithms deal with regression, ensemble modeling, decision trees, and non-supervised learning algorithms such as clustering.
+Seaborn - With Seaborn, it is more convenient than ever to plot general data visualizations. It is built on top of Matplotlib and gives a more pleasant high-level wrapper.
+Projects and Further Learning
+
+To actually get to know a technology and to learn Python for Data Science, you must develop something in it. Begin with issues available on the Internet, and develop your skills. Then, come up with your own problems, and describe and solve them.
+
+Conclusion: Python for Data Science
+
+Through this post on Python for Data Science, we have laid out a roadmap for you to pursue your data science journey. Further, you can also join a Data Science with Python program to kick-start your journey into this promising field.
+
